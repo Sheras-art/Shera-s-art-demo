@@ -1,4 +1,4 @@
-# Shera-s-art-demo
+# Sheras-art-demo
 This is my first repository.
 <br>
 Author - Naveed Shera
